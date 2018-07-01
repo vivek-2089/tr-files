@@ -5,7 +5,7 @@ Docker Class Notes
 ###############################################
 
 docker engine/host/runtime/Daemon
-docker images
+#docker images
 docker registry
 docker containers
 docker client
